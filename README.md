@@ -1,5 +1,3 @@
-"# MCA47 Project" 
-
-#hello this GitHub!!!"
-
-This is the MAIN branch version.
+This is the final combined version after rebase conflict:
+- GitHub version: ...
+- Local version: ...
